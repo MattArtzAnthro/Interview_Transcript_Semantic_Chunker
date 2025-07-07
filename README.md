@@ -58,8 +58,9 @@ This notebook contributes to the emerging field of AI Anthropology—which combi
 
 This tool is part of a growing suite of computational resources for anthropological research:
 
-- **[Interview Transcript Semantic Chunker](https://github.com/MattArtzAnthro/Interview_Transcript_Semantic_Chunker)** (this tool) - AI-assisted segmentation of interview transcripts
 - **[Qualitative Codebook Builder](https://github.com/MattArtzAnthro/Qualitative_Codebook_Builder)** - AI-assisted development of qualitative coding frameworks
+- **[Interview Transcript Semantic Chunker](https://github.com/MattArtzAnthro/Interview_Transcript_Semantic_Chunker)** (this tool) - AI-assisted segmentation of interview transcripts
+- **[Coding and Thematic Analysis](https://github.com/MattArtzAnthro/Coding_and_Thematic_Analysis)** - AI-assisted coding and thematic analysis of qualtiative data
 
 *Additional tools will be added to this toolkit as they are developed.*
 
