@@ -82,7 +82,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 If you use or adapt this project in your work, please cite:
 
 
-> Built with the Qualitative Codebook Builder (Matt Artz, 2025) — https://github.com/MattArtzAnthro/Qualitative_Codebook_Builder
+> Built with the Interview Transcript Semantic Chunker (Matt Artz, 2025) — https://github.com/MattArtzAnthro/Interview_Transcript_Semantic_Chunker
 
 
 ## Citation
