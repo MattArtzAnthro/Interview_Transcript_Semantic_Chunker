@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use the Interview Transcript Semantic Chunker, please cite it as shown below."
+title: "Interview Transcript Semantic Chunker"
+version: 1.0.0            
+date-released: 2025-07-07  
+doi: "https://doi.org/10.5281/zenodo.15823716"                    
+url: "https://github.com/MattArtzAnthro/Interview_Transcript_Semantic_Chunker"
+authors:
+  - family-names: "Artz"
+    given-names: "Matt"
+    orcid: "https://orcid.org/0000-0002-3822-1429"
